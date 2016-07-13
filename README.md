@@ -19,3 +19,6 @@ Place both laser files into inkscape -> share -> extensions
 12. Place cloned boxes over image then select everything
 13. Path -> Intersection
 14. Extensions -> Generate Laser Gcode -> Horizontal Laser Tool -> Remember to select: Laser Horizontal lines only
+
+#The Video
+https://youtu.be/8bl8vIKZ9y8
