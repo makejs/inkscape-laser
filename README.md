@@ -1,5 +1,5 @@
 # Inkscape-laser
-inkscape laser gcode <br />
+creates a laser gcode for inkscape <br />
 Download Zip <br />
 Place both laser files into inkscape -> share -> extensions
 
