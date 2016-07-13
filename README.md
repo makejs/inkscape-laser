@@ -1,5 +1,8 @@
 # Inkscape-laser
 inkscape laser gcode
+Download Zip 
+Place both laser files into inkscape -> share -> extensions
+
 
 # Horizontal Lines Only
 1. Import image (BMP)
