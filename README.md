@@ -14,7 +14,7 @@ Place both laser files into inkscape -> share -> extensions
 7. Set the height of the box to 0.1mm
 8. Edit -> Clone -> Create Tiled Clones...
 9. Shift Tab -> Shift Y Per Row: to 100% and Rows to 200? (this number will change to accommodate the height of the object)
-10. Delete both the original box you crteated and the box overlayed on it. (They cause problems)
+10. Delete both the original box you created and the box overlayed on it. (They cause problems?)
 11. Select all cloned boxes -> Path -> Combine
 12. Place cloned boxes over image then select everything
 13. Path -> Intersection
