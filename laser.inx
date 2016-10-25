@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <inkscape-extension xmlns="http://www.inkscape.org/namespace/inkscape/extension">
     <_name>Horizontal Laser Tool</_name>
-    <id>https://github.com/warkilt/inkscape-laser</id>
+    <id>https://github.com/makejs/inkscape-laser</id>
 	<dependency type="executable" location="extensions">laser.py</dependency>
 	<dependency type="executable" location="extensions">inkex.py</dependency>
 	<param name="laser-command" type="string" _gui-text="Laser ON Command:">M03</param>
