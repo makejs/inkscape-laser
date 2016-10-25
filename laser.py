@@ -1,6 +1,6 @@
 #!/usr/bin/env python 
 """
-Modified by Cale Kaupp 2016,  https://github.com/warkilt/inkscape-laser
+Modified by Cale Kaupp 2016,  https://github.com/makejs/inkscape-laser
 Modified by Jay Johnson 2015, J Tech Photonics, Inc., jtechphotonics.com 
 modified by Adam Polak 2014, polakiumengineering.org
 
