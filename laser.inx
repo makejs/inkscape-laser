@@ -28,7 +28,7 @@
 
 	<effect>
 		<effects-menu>
-			<submenu _name="Generate Laser Gcode"/>
+			<submenu _name="Generate Gcode"/>
 		</effects-menu>
 		<object-type>path</object-type>
   	</effect>
