@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <inkscape-extension xmlns="http://www.inkscape.org/namespace/inkscape/extension">
-    <_name>Horizontal Laser Tool</_name>
+    <_name>Horizontal G-code Tool</_name>
     <id>https://github.com/makejs/inkscape-laser</id>
 	<dependency type="executable" location="extensions">laser.py</dependency>
 	<dependency type="executable" location="extensions">inkex.py</dependency>
@@ -28,7 +28,7 @@
 
 	<effect>
 		<effects-menu>
-			<submenu _name="Generate Gcode"/>
+			<submenu _name="Generate G-code"/>
 		</effects-menu>
 		<object-type>path</object-type>
   	</effect>
